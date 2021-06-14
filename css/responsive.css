@@ -1,0 +1,652 @@
+@media (min-width:320px) and (max-width:575px){
+    
+      .title p{
+        width: auto;
+    }
+    
+   
+    header .text span{
+        display: block;
+}
+    
+    header .text {
+        text-align: center;
+    }
+    
+    
+    header .text a {
+        display: block;
+        margin-left: 0px;
+        
+        
+    }
+    
+    header p {
+        text-align: center;
+        margin-top: -25px;
+    }
+    
+    nav .container {
+        margin-top: 0;
+    }
+    
+    nav .navbar-toggler i{
+        margin-top: 20px;
+        
+    }
+    
+    nav .navbar-toggler:focus{
+        box-shadow: 0 0 0 0rem;
+    }
+    
+    nav #navbarSupportedContent{
+        margin-top: 15px;
+}
+    
+    nav ul{
+        text-align: center;
+        background: #2d3e50;
+        padding: 15px 0;
+        
+    }
+    
+    nav ul li a{
+       color: white;
+        
+    }
+    
+    nav .btn {
+        background: #2d3e50;
+        text-align: center;
+        display: block;
+        margin-top: 0;
+        padding-bottom: 35px;
+        border-radius: 0;
+      
+        
+    }
+    
+    nav .btn a{
+        padding: 10px 12px;
+        background: white;
+        transition: .4s;
+        font-size:  16px;
+        margin-left: 25px;
+    }
+    
+    nav .btn a:hover{
+        background: #fbaa33;
+        color: white;
+    }
+    
+    
+    #banner-part .banner-slider .slider{
+        margin-top: 0;
+
+    }
+    #banner-part .banner-slider .slider .overlay .one {
+        font-size: 25px;
+    }
+    
+    #banner-part .banner-slider .slider .overlay .two{
+        font-size: 28px;
+    }
+    
+    #banner-part .banner-slider .slider .overlay p{
+        width: auto;
+        margin-top: 4px;
+    }
+    
+    #banner-part .banner-slider .slider .overlay .btn{
+        margin-left: 0;
+        
+    }
+    
+    #banner-part .banner-slider .slider .overlay .btn a{
+        margin-top: 10px;
+        text-align: center;
+        padding: 8px 12px;
+        font-size: 16px;
+        
+      }
+    
+    
+    #banner-part .banner-slider .slider .overlay{
+        padding-top: 45px;
+        padding-bottom: 140px;
+    }
+    
+    #banner-part .slick-dots{
+        position: absolute;
+        bottom: 90px;
+        left: 33%;
+        
+    }
+    
+    #banner-part .slick-dots li{
+        display: inline-block;
+        margin-right: 10px;
+    }
+    
+    
+    #banner-part .slick-dots li button{
+        font-size: 0;
+        width: 10px;
+        height: 10px;
+        background: transparent;
+        border-radius: 50%;
+        border: 2px solid #fbaa33;
+        
+        }
+    
+    
+    #banner-part .slick-dots .slick-active button{
+      
+        background: #fbaa33;
+}
+    
+    #about-part .title h3{
+        margin-top: -50px;
+    }
+    
+     .title p{
+        width: auto;
+    }
+    
+    #about-part .row .rev_slider .rev_slide img{
+        width: 100%;
+    }
+    
+    #about-part .row .col-lg-6 .shape::after{
+        width: 138px;
+        bottom: 31px;
+        right: 0;
+    }
+    
+    
+    
+    #about-part .row .col-lg-6 .shape::before {
+        width: 8px;
+        bottom: 31px;
+        right: 141px;
+    }
+    
+    #about-part .row .col-lg-6 .rev_slider::after{
+        width: 131px;
+    }
+    
+    #about-part .row .col-lg-6 .rev_slider::before{
+        left: 176px;
+    }
+    
+  #about-part .slick-dots {
+	
+	bottom: 28px;
+	left: 29%;
+  }   
+    
+    #about-part .slick-dots li{
+        width: 10px;
+        height: 10px;
+    }
+    
+    #about-part .row .text p {
+        width: auto;
+        text-align: center;
+    }
+    
+    #about-part .row .text .about-second-para{
+        width: auto;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    #about-part .row .text .btn{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    
+    #about-part .row .text .btn a{
+        padding: 10px 12px;
+        margin-right: 0;
+        margin-left: 10px;
+        font-size: 16px;
+    }
+    
+    #counter-up-part .row .res{
+        margin-bottom: 20px;
+    }
+    
+    #counter-up-part .row h3::before {
+       display: none;
+    }
+    
+    #counter-up-part .row h3::after {
+        display: none;
+}
+    
+    #counter-up-part .row .counter{
+        font-size: 31px;
+    }
+    
+    #counter-up-part .row h3{
+        font-size: 21px;
+}
+    
+    #our-course-part .title{
+        margin-top: 40px;
+}
+    
+    #our-course-part .course-slider .item .titled p{
+        width: auto;
+        
+}
+    
+    #our-course-part .course-slider{
+        margin-top: 25px;
+    }
+    
+    #our-course-part .course-slider .item{
+        margin-left: 0;
+    }
+    
+    #our-event .title{
+        margin-top: -40px;
+    }
+    
+    #our-event .row .second-div{
+        margin-top: 20px;
+    }
+    
+    #our-event .row .ui-ux{
+        flex-direction: column;
+}
+    
+    #our-event .row .ui-ux .text .lorem{
+        width: auto;
+    }
+    
+    #our-event .row .ui-ux .text .nine{
+        margin-left: 0
+    }
+    
+    #testimonial-part{
+        margin-top: -100px;
+}
+    
+    #testimonial-part .title{
+        padding-top: 30px;
+    }
+    
+    #testimonial-part .row .shape .testimonial-slider .item img{
+        width: 100%;
+    }
+    
+    #testimonial-part .row .text-slider .item .details p{
+        width: auto;
+        text-align: center;
+    }
+    
+    #testimonial-part .row .text-slider .item .details{
+        margin-top: -15px;
+    }
+    
+    .preb {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	left: 7px;
+	font-size: 13px;
+}
+    
+    .nexted{
+        
+    width: 20px;
+	height: 20px;
+	line-height: 20px;
+    top: 44%;
+	left: 7px;
+	font-size: 13px;
+}
+    
+    #testimonial-part .row .text-slider .item .details h3{
+        font-size: 18px;
+        margin-top: 17px;
+}
+    
+    #testimonial-part .row .text-slider .item .rating{
+        margin-top: 2px;
+}
+    
+   #testimonial-part .accordion{
+        margin-top: 40px;
+}
+    
+    #testimonial-part .accordion-body{
+        width: auto;
+    }
+    
+    #our-teacher .title{
+        margin-top: -55px;
+}
+    
+   
+    
+    #blog-part .row .z-index .img{
+        margin-top: 60px;
+}
+    
+    #blog-part .row .z-index{
+        margin-top: -37px;
+}
+    
+    #blog-part .row .big .img{
+        margin-top: -130px;
+
+}
+    
+    #blog-part .row .z-index .img .text .icon{
+        margin-top: 25px;
+    }
+    
+    #blog-part .row .z-index .img .text .icon i {
+	width: 30px;
+	height: 30px;
+	
+	font-size: 14px;
+	line-height: 30px;
+	
+}
+    
+    #blog-part .row .z-index .img .text .details{
+       margin-top: 166px;
+    
+    }
+    
+   
+    
+    #blog-part .row .z-index .img .text .details h4{
+        font-size: 15px;
+        margin-top: -8px;
+    }
+    
+    #blog-part .row .z-index .img .text .details .http{
+        margin-top: 0;
+    }
+    
+   
+    
+    #blog-part .row .z-index .img .text .paragraph{
+        display: none;
+    }
+    
+    
+    
+    
+    
+    #blog-part .row .col-lg-3{
+        margin-bottom: 20px
+}
+    
+    footer .titl{
+        margin-top: 0;
+}
+    
+    footer .paragraph .lorem{
+        width: auto;
+}
+    
+    footer .paragraph p{
+        width: auto;
+    }
+    
+    footer ul{
+        margin-top: 20px;
+}
+    
+    footer .item .text p{
+        margin-top: 0;
+}
+    
+    #footer-slider .foot-slider .item .instragram{
+        display: none;
+}
+    
+    
+}
+
+
+@media (min-width:576px) and (max-width:767px){
+    
+    header .text {
+        text-align: center;
+    }
+    
+    header .text a{
+        display: block;
+        margin-left: 0;
+}
+    
+    header .text span{
+        font-size: 30px;
+}
+    
+    header p {
+        text-align: center;
+    }
+    
+        nav .container {
+        margin-top: 0;
+    }
+    
+    nav .navbar-toggler i{
+        margin-top: 20px;
+        
+    }
+    
+    nav .navbar-toggler:focus{
+        box-shadow: 0 0 0 0rem;
+    }
+    
+    nav #navbarSupportedContent{
+        margin-top: 15px;
+}
+    
+    nav ul{
+        text-align: center;
+        background: #2d3e50;
+        padding: 15px 0;
+        
+    }
+    
+    nav ul li a{
+       color: white;
+        
+    }
+    
+    nav .btn {
+        background: #2d3e50;
+        text-align: center;
+        display: block;
+        margin-top: 0;
+        padding-bottom: 35px;
+        border-radius: 0;
+      
+        
+    }
+    
+    nav .btn a{
+        padding: 10px 12px;
+        background: white;
+        transition: .4s;
+        font-size:  16px;
+        margin-left: 25px;
+    }
+    
+    nav .btn a:hover{
+        background: #fbaa33;
+        color: white;
+    }
+    
+    #about-part .row .rev_slider .rev_slide img{
+        width: 100%;
+    }
+    
+    #about-part .row .col-lg-6 .rev_slider::after {
+        left: 68px;
+        width: 284px;   
+}
+    
+    #about-part .row .col-lg-6 .rev_slider::before {
+        left: 357px;
+}
+    
+    #about-part .row .col-lg-6 .shape::after{
+        width: 284px;
+        bottom: 57px;
+        right: -5px;
+    }
+    
+      #about-part .row .col-lg-6 .shape::before{
+       
+        bottom: 57px;
+        right: 285px;
+    }
+    
+    #about-part .row .text p{
+        width: auto;
+        text-align: center;
+
+    }
+    
+    #about-part .row .text .about-second-para{
+        width: auto;
+        text-align: center;
+    }
+    
+    #about-part .row .text .btn{
+        margin-top: 16px;
+}
+    #about-part .row .text .btn a{
+         margin-left: 64px;
+        margin-right: -4px;
+}
+    
+    #counter-up-part{
+        margin-top: 40px;
+    }
+    
+     
+    
+    #counter-up-part .row h3::before {
+       display: none;
+    }
+    
+    #counter-up-part .row h3::after {
+        display: none;
+}
+    
+    #counter-up-part .row .counter{
+        font-size: 30px;
+}
+    
+   
+    
+ 
+    
+    #our-course-part .title{
+        margin-top: 40px;
+}
+    
+    #our-course-part .course-slider .item .titled p{
+        width: auto;
+        
+}
+    
+    #our-course-part .course-slider{
+        margin-top: 25px;
+    }
+    
+    #our-course-part .course-slider .item{
+        margin-left: 0;
+    }
+    
+    #our-event .row .second-div{
+        margin-top: 25px;
+    }
+    
+    #our-event .row .ui-ux .text .lorem{
+        width: auto;
+    }
+    
+    #our-event .row .ui-ux .text .nine{
+        margin-left: 4px;
+}
+    
+    #our-event .row .ui-ux .text p{
+        font-size: 12px;
+    }
+    
+    #our-event .row .ui-ux .text .button a{
+        padding: 10px 12px;
+        font-size: 14px;
+    }
+    
+     #testimonial-part{
+        margin-top: -100px;
+}
+    
+    #testimonial-part .title{
+        padding-top: 30px;
+    }
+    
+    #testimonial-part .row .shape .testimonial-slider .item img{
+        width: 100%;
+    }
+    
+    #testimonial-part .row .text-slider .item .details p{
+        width: auto;
+        
+    }
+    
+    #testimonial-part .row .text-slider .item .details{
+        margin-top: -15px;
+    }
+    
+    .preb {
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	left: 7px;
+	font-size: 13px;
+}
+    
+    .nexted{
+        
+    width: 20px;
+	height: 20px;
+	line-height: 20px;
+    top: 44%;
+	left: 7px;
+	font-size: 13px;
+}
+    
+    #testimonial-part .row .text-slider .item .details h3{
+        font-size: 18px;
+        margin-top: 17px;
+}
+    
+    #testimonial-part .row .text-slider .item .rating{
+        margin-top: 2px;
+}
+    
+   #testimonial-part .accordion{
+        margin-top: 40px;
+}
+    
+    #testimonial-part .accordion-body{
+        width: auto;
+    }
+   
+
+}
